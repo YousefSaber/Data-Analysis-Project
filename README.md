@@ -8,4 +8,4 @@ The Movie Database (TMDb),
 including user ratings and revenue
 * `tmdb-movies.csv`
 
-All the analysis is done in `Analysis.ipynb` if you don't know how to render `.ipynb` files you can view the `HTML` format of it in `Analysis.html`.
+All the analysis is done in `Analysis.ipynb` if you don't know how to render `.ipynb` files you can view the `HTML` format of it in `AnalysisLightTheme.html` or `AnalysisDarkTheme.html`.
